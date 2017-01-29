@@ -1,0 +1,22 @@
+{
+  "name": "alexa-bulletin",
+  "version": "0.0.1",
+  "description": "Alexa skill to read a bulletin from a public Google doc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattleacademy/alexa-bulletin.git"
+  },
+  "author": "Gary Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/alexa-bulletin/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/alexa-bulletin#readme",
+  "dependencies": {
+    "alexa-app-server": "^2.3.1"
+  }
+}
